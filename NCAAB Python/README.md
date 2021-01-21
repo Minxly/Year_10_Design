@@ -4,6 +4,7 @@ Created By:
 Matt Lipton
 
 ======================================
+
 SETUP
 
 To properly run the program you must
@@ -17,6 +18,7 @@ COMMAND
 pip install sportsrefernece
 
 ======================================
+
 OTHER STUFF
 
 When entering the date make sure the
